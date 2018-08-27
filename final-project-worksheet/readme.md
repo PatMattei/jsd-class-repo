@@ -17,7 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+For my final project, I will create a site that displays health and safety information for restaurants in New York City. Included will be sanitation grades, violations, and restaurant information. The data will be pulled from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j) and will include several ways to view the information, such as viewing the locations of resturants/grades and sorting the data by type of violations.
 
 ## Wireframes
 
