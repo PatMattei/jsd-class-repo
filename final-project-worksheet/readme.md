@@ -19,6 +19,32 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 For my final project, I will create a site that displays health and safety information for restaurants in New York City. Included will be sanitation grades, violations, and restaurant information. The data will be pulled from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j) and will include several ways to view the information, such as viewing the locations of resturants/grades and sorting the data by type of violations.
 
+## Sample Data
+
+The data will be formatted as json. It includes a restaurant's name, sanitation grade, address, and recent inspection notes. A sample of the data can be seen here:
+```
+{
+	"action": "Violations were cited in the following area(s).",
+	"boro": "QUEENS",
+	"building": "9014",
+	"camis": "50038736",
+	"critical_flag": "Critical",
+	"cuisine_description": "Mexican",
+	"dba": "DON NICO'S",
+	"grade": "A",
+	"grade_date": "2015-10-19T00:00:00.000",
+	"inspection_date": "2015-10-19T00:00:00.000",
+	"inspection_type": "Pre-permit (Operational) / Initial Inspection",
+	"phone": "7182976426",
+	"record_date": "2018-08-30T06:01:26.000",
+	"score": "12",
+	"street": "161ST ST",
+	"violation_code": "05D",
+	"violation_description": "Hand washing facility not provided in or near food preparation area and toilet room. Hot and cold running water at adequate pressure to enable cleanliness of employees not provided at facility. Soap and an acceptable hand-drying device not provided.",
+	"zipcode": "11432"
+}
+```
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
