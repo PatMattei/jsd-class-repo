@@ -48,7 +48,7 @@ The data will be formatted as json. It includes a restaurant's name, sanitation 
 ## Wireframes
 Main Wireframe
 ![alt text](https://res.cloudinary.com/patricklm/image/upload/v1536180146/wireframe.png)
-This show basic functionality and layout of the site.
+This shows basic functionality and layout of the site.
 
 ## Priority Matrix
 
