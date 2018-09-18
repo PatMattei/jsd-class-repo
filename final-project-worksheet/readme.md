@@ -59,15 +59,15 @@ Include a full list of features that have been prioritized based on the `Time an
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
-
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Query an external API to get sanitation grades and locations on NYC restaurants plotted on a Google map
+- Functionality to filter the mapped results based on type of food and/or sanitation grade
+- Restaurant information, including name, address, and sanitation rating to be avaialble when user clicks on the map points
 
 #### PostMVP 
-
-- Add user auth
+- Information windows display in-depth sanitation information including number and type of violations
+- Information windows display a link to order from the restaurant (link to Seamless, Grubhub, etc.)
+- Give the user the ability to create a favorites list of restaurants that will be stored with a user login
+- Ability to filter by type of violations (ex. exclude any restaurants with evidence of mice)
 
 ## Functional Components
 
